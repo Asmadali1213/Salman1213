@@ -40,34 +40,19 @@ logo = """
 
 \033[1;92m\n                                                                                                            
                                                                                                              
-   SSSSSSSSSSSSSSS                   lllllll                                                                 
- SS:::::::::::::::S                  l:::::l                                                                 
-S:::::SSSSSS::::::S                  l:::::l                                                                 
-S:::::S     SSSSSSS                  l:::::l                                                                 
-S:::::S              aaaaaaaaaaaaa    l::::l    mmmmmmm    mmmmmmm     aaaaaaaaaaaaa  nnnn  nnnnnnnn         
-S:::::S              a::::::::::::a   l::::l  mm:::::::m  m:::::::mm   a::::::::::::a n:::nn::::::::nn       
- S::::SSSS           aaaaaaaaa:::::a  l::::l m::::::::::mm::::::::::m  aaaaaaaaa:::::an::::::::::::::nn      
-  SS::::::SSSSS               a::::a  l::::l m::::::::::::::::::::::m           a::::ann:::::::::::::::n     
-    SSS::::::::SS      aaaaaaa:::::a  l::::l m:::::mmm::::::mmm:::::m    aaaaaaa:::::a  n:::::nnnn:::::n     
-       SSSSSS::::S   aa::::::::::::a  l::::l m::::m   m::::m   m::::m  aa::::::::::::a  n::::n    n::::n     
-            S:::::S a::::aaaa::::::a  l::::l m::::m   m::::m   m::::m a::::aaaa::::::a  n::::n    n::::n     
-            S:::::Sa::::a    a:::::a  l::::l m::::m   m::::m   m::::ma::::a    a:::::a  n::::n    n::::n     
-SSSSSSS     S:::::Sa::::a    a:::::a l::::::lm::::m   m::::m   m::::ma::::a    a:::::a  n::::n    n::::n     
-S::::::SSSSSS:::::Sa:::::aaaa::::::a l::::::lm::::m   m::::m   m::::ma:::::aaaa::::::a  n::::n    n::::n     
-S:::::::::::::::SS  a::::::::::aa:::al::::::lm::::m   m::::m   m::::m a::::::::::aa:::a n::::n    n::::n     
- SSSSSSSSSSSSSSS     aaaaaaaaaa  aaaallllllllmmmmmm   mmmmmm   mmmmmm  aaaaaaaaaa  aaaa nnnnnn    nnnnnn     
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
-                                                                                                             
+   8""""8                                    
+8      eeeee e     eeeeeee eeeee eeeee    
+8eeeee 8   8 8     8  8  8 8   8 8   8    
+    88 8eee8 8e    8e 8  8 8eee8 8e  8    
+e   88 88  8 88    88 8  8 88  8 88  8    
+8eee88 88  8 88eee 88 8  8 88  8 88  8    
+                                          
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
                      
 \n\033[0m----------------------------------
-\033[1;92mAuthor \033[1;93m: Asmad Ali
-\033[1;92mFb \033[1;93m: Salman
-\033[1;92mDisclaimer \033[1;93m: Its For Educational Purpose
+\033[1;92mAuthor \033[1;93m: Salman
+\033[1;92mFacebook \033[1;93m: https://www.facebook.com/profile.php?id=100070714176742')
+\033[1;92mDisclaimer \033[1;93m: Its For Trial tool for all by Asmad
 \033[0m----------------------------------
 
 """
